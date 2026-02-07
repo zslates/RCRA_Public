@@ -50,7 +50,8 @@
             "items": [
               {
                 "name": "Google",
-                "url": "www.google.com"
+                "url": "http://www.google.com",
+                "linkType": "excel"
               }
             ]
           }
