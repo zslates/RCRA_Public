@@ -1,0 +1,90 @@
+[
+  {
+    "category": "Leadership",
+    "items": [
+      {
+        "name": "Pending Medicaid2",
+        "url": "https://app.powerbi.com/reportEmbed?reportId=c3ff8487-7d66-4910-b155-67ff08c37d83&autoAuth=true&ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&actionBarEnabled=true"
+      },
+      {
+        "name": "Denial Recovery Rate",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/b10dcdc0-760a-41db-85a3-cf2fb2c1f4c9/375500d296069ec7cb1d?experience=power-bi"
+      }
+    ]
+  },
+  {
+    "category": "HB",
+    "items": [
+      {
+        "name": "Daily Revenue",
+        "url": "https://example.com/hb1"
+      }
+    ]
+  },
+  {
+    "category": "PB",
+    "items": []
+  },
+  {
+    "category": "SBO5",
+    "items": []
+  },
+  {
+    "category": "Claims Processing",
+    "items": []
+  },
+  {
+    "category": "User",
+    "items": [
+      {
+        "name": "Leadership",
+        "items": [
+          {
+            "name": "Jason Siedman",
+            "items": []
+          },
+          {
+            "name": "Joe Reppert",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "HB",
+        "items": [
+          {
+            "name": "Adam Gobin",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "PB",
+        "items": [
+          {
+            "name": "Ashley Hill",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "SBO",
+        "items": [
+          {
+            "name": "Arjun",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Admin Tools",
+    "items": [
+      {
+        "name": "Edit Menu",
+        "url": "menu_editor.html"
+      }
+    ]
+  }
+]
