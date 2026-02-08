@@ -82,11 +82,15 @@
     "items": []
   },
   {
-    "category": "Admin Tools",
+    "category": "Admin",
     "items": [
       {
         "name": "Edit Menu",
         "url": "menu_editor.html"
+      },
+      {
+        "name": "New Folder",
+        "items": []
       }
     ]
   }
