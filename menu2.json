@@ -78,7 +78,7 @@
         "linkType": "report"
       },
       {
-        "category": "Claims Processing",
+        "name": "Claims Processing",
         "items": [
           {
             "name": "Denials ME",
