@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - RCRA BI Portal</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 { margin-bottom: 20px; color: #2e1a47; } /* Matches your extension theme */
+        h2 { margin-top: 30px; border-bottom: 2px solid #eee; padding-bottom: 10px; font-size: 1.25em; }
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; padding-left: 20px; }
+        li { margin-bottom: 5px; }
+        .highlight {
+            background-color: #e8f0fe;
+            padding: 15px;
+            border-left: 4px solid #9575cd; /* Your accent color */
+            border-radius: 4px;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.85em;
+            color: #777;
+            text-align: center;
+            border-top: 1px solid #ddd;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Extension Name:</strong> RCRA BI Portal<br>
+    <strong>Effective Date:</strong> February 8, 2026</p>
+
+    <div class="highlight">
+        <strong>Summary:</strong> The RCRA BI Portal extension does not collect, transmit, or sell your personal browsing history. All data processing happens locally on your device.
+    </div>
+
+    <h2>1. Data Collection</h2>
+    <p>The RCRA BI Portal extension is designed to act as a navigation overlay. It minimizes data collection to the absolute necessities required for functionality:</p>
+    <ul>
+        <li><strong>No Tracking:</strong> We do not track your browsing history, search queries, or website interactions.</li>
+        <li><strong>No Remote Server:</strong> The extension does not send data to any third-party server owned or operated by the developer.</li>
+        <li><strong>Local Preferences:</strong> Settings such as sidebar position (left/right), display mode (mini/full), and cached menu data are stored locally on your browser using Chrome's <code>storage.local</code> API.</li>
+    </ul>
+
+    <h2>2. Permissions Usage</h2>
+    <p>The extension requires specific browser permissions to function. Here is an explanation of why each permission is necessary:</p>
+    
+    <ul>
+        <li><strong>"Read and change all your data on the websites you visit" (<code>&lt;all_urls&gt;</code>):</strong> 
+            <br>This permission is strictly used to <em>inject</em> the visual sidebar (iframe) into the websites you visit. The extension needs to modify the page layout (CSS margins) to ensure the sidebar does not cover up website content. It does <strong>not</strong> read, store, or analyze the content of the pages you visit.
+        </li>
+        <li><strong>Storage:</strong> 
+            <br>Used to save your user preferences (e.g., keeping the sidebar open or closed) and to cache the navigation menu for faster loading times.
+        </li>
+        <li><strong>Scripting:</strong> 
+            <br>Required to execute the code that renders the sidebar overlay.
+        </li>
+    </ul>
+
+    <h2>3. External Data Connections</h2>
+    <p>The extension makes read-only requests to <strong>GitHub</strong> to fetch the latest navigation menu configuration (<code>menu2.json</code>). This ensures your navigation links are always up to date without requiring an extension update.</p>
+
+    <h2>4. Admin Features (Optional)</h2>
+    <p>For administrators using the "Menu Editor" feature:</p>
+    <ul>
+        <li>If you choose to save GitHub credentials (Personal Access Token), this sensitive information is saved <strong>locally</strong> in your browser's local storage.</li>
+        <li>It is never transmitted to the developer or any tracking service.</li>
+        <li>It is used solely to authenticate direct requests between your browser and the GitHub API for saving menu changes.</li>
+    </ul>
+
+    <h2>5. Contact Information</h2>
+    <p>If you have questions about this privacy policy or the extension's practices, please contact the developer at:</p>
+    <p>
+        <a href="mailto:support@example.com">support@example.com</a> </p>
+</div>
+
+<footer>
+    <p>&copy; 2026 RCRA BI Portal. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
