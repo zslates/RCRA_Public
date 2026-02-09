@@ -12,15 +12,24 @@
         "items": [
           {
             "name": "Jason Siedman",
-            "items": []
+            "items": [
+              {
+                "name": "Wellstar",
+                "url": "http://www.welstar.org",
+                "linkType": "excel"
+              }
+            ],
+            "_expanded": true
           },
           {
             "name": "Joe Reppert",
             "items": []
           }
-        ]
+        ],
+        "_expanded": true
       }
-    ]
+    ],
+    "_expanded": true
   },
   {
     "category": "HB",
@@ -136,7 +145,7 @@
         ]
       }
     ],
-    "_expanded": true
+    "_expanded": false
   },
   {
     "category": "Admin",
