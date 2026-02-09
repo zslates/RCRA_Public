@@ -21,7 +21,7 @@
     "category": "HB",
     "items": [
       {
-        "name": "New Folder",
+        "name": "ATB",
         "items": [
           {
             "name": "ATB  Historical (Bucket)",
@@ -31,13 +31,18 @@
         ]
       },
       {
-        "name": "Denial Recovery Rate",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/b10dcdc0-760a-41db-85a3-cf2fb2c1f4c9/375500d296069ec7cb1d?experience=power-bi"
-      },
-      {
-        "name": "Recoupments",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f053477e-d1c3-47e0-a11c-fe053ed92f11/d0fb3900950b1401a088?experience=power-bi",
-        "linkType": "report"
+        "name": "Claims Processing",
+        "items": [
+          {
+            "name": "Denial Recovery Rate",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/b10dcdc0-760a-41db-85a3-cf2fb2c1f4c9/375500d296069ec7cb1d?experience=power-bi"
+          },
+          {
+            "name": "Recoupments",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f053477e-d1c3-47e0-a11c-fe053ed92f11/d0fb3900950b1401a088?experience=power-bi",
+            "linkType": "report"
+          }
+        ]
       },
       {
         "name": "Pending Medicaid",
@@ -110,11 +115,6 @@
       {
         "name": "Inbound Calls",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a731ffed-4292-46b4-b023-e879097932d0/ReportSection?experience=power-bi"
-      },
-      {
-        "name": "HB Pending Medicaid",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/18747213-f815-45a7-bec1-0e3976279483/d0fb3900950b1401a088?experience=power-bi",
-        "linkType": "report"
       },
       {
         "name": "MyChart CRM",
