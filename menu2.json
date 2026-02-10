@@ -18,18 +18,15 @@
                 "url": "http://www.welstar.org",
                 "linkType": "excel"
               }
-            ],
-            "_expanded": true
+            ]
           },
           {
             "name": "Joe Reppert",
             "items": []
           }
-        ],
-        "_expanded": true
+        ]
       }
-    ],
-    "_expanded": false
+    ]
   },
   {
     "category": "HB",
@@ -57,8 +54,7 @@
             "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/f053477e-d1c3-47e0-a11c-fe053ed92f11/d0fb3900950b1401a088?experience=power-bi",
             "linkType": "report"
           }
-        ],
-        "_expanded": true
+        ]
       },
       {
         "name": "Pending Medicaid",
@@ -88,8 +84,7 @@
           }
         ]
       }
-    ],
-    "_expanded": true
+    ]
   },
   {
     "category": "PB",
@@ -147,8 +142,7 @@
           }
         ]
       }
-    ],
-    "_expanded": false
+    ]
   },
   {
     "category": "Admin",
