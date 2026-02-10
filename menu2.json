@@ -65,7 +65,8 @@
       {
         "name": "Work Queue Monitoring",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a1a12a06-a375-4922-a191-92e98f178c2f?experience=power-bi",
-        "linkType": "report"
+        "linkType": "report",
+        "inDevelopment": true
       },
       {
         "name": "Users",
