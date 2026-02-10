@@ -60,13 +60,13 @@
         "name": "Pending Medicaid",
         "url": "https://app.powerbi.com/reportEmbed?reportId=c3ff8487-7d66-4910-b155-67ff08c37d83&autoAuth=true&ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&actionBarEnabled=true",
         "linkType": "report",
-        "inDevelopment": true
+        "inDevelopment": false
       },
       {
         "name": "Work Queue Monitoring",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a1a12a06-a375-4922-a191-92e98f178c2f?experience=power-bi",
         "linkType": "report",
-        "inDevelopment": true
+        "inDevelopment": false
       },
       {
         "name": "Users",
