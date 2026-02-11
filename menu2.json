@@ -129,7 +129,9 @@
     "items": [
       {
         "name": "Inbound Calls",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a731ffed-4292-46b4-b023-e879097932d0/ReportSection?experience=power-bi"
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a731ffed-4292-46b4-b023-e879097932d0/ReportSection?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": true
       },
       {
         "name": "MyChart CRM",
