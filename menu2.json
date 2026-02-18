@@ -103,6 +103,12 @@
         "linkType": "report"
       },
       {
+        "name": "Monthly RVU",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/7107dbe6-8f6b-4dd1-87f8-de42f937a903/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false
+      },
+      {
         "name": "Claims Processing",
         "items": [
           {
