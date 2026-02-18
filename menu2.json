@@ -145,12 +145,6 @@
     "category": "SBO",
     "items": [
       {
-        "name": "Inbound Calls",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a731ffed-4292-46b4-b023-e879097932d0/ReportSection?experience=power-bi",
-        "linkType": "report",
-        "inDevelopment": true
-      },
-      {
         "name": "MyChart CRM",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/032fefe2-5093-4409-a436-d1b57f84f70f/d0fb3900950b1401a088?experience=power-bi",
         "linkType": "report"
