@@ -32,6 +32,12 @@
             "name": "ATB  Historical (Bucket)",
             "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/3c86379f-e32e-458a-9a24-0d75bf10b666/d0fb3900950b1401a088?experience=power-bi",
             "linkType": "report"
+          },
+          {
+            "name": "Monthly ATB",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a12c80c6-0aee-428c-a533-d8f1d0df9118/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
           }
         ]
       },
