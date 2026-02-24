@@ -5,24 +5,6 @@
     "linkType": "report"
   },
   {
-    "category": "Leadership",
-    "items": [
-      {
-        "name": "Users",
-        "items": [
-          {
-            "name": "Jason Siedman",
-            "items": []
-          },
-          {
-            "name": "Joe Reppert",
-            "items": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "category": "HB",
     "items": [
       {
@@ -149,6 +131,24 @@
         "items": [
           {
             "name": "Arjun",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Leadership",
+    "items": [
+      {
+        "name": "Users",
+        "items": [
+          {
+            "name": "Jason Siedman",
+            "items": []
+          },
+          {
+            "name": "Joe Reppert",
             "items": []
           }
         ]
