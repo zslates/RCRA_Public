@@ -49,7 +49,7 @@
         "name": "Pending Medicaid",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/933e1559-74a5-40ec-b0a6-20b2fe88662c/d0fb3900950b1401a088?experience=power-bi",
         "linkType": "report",
-        "inDevelopment": true
+        "inDevelopment": false
       },
       {
         "name": "Work Queue Monitoring",
