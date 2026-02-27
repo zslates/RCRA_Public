@@ -209,10 +209,6 @@
       {
         "name": "Edit Menu",
         "url": "menu_editor.html"
-      },
-      {
-        "name": "New Folder",
-        "items": []
       }
     ]
   }
