@@ -86,6 +86,17 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Work Queue",
+        "items": [
+          {
+            "name": "Insurance Compliance",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/27c06c7d-bf2e-4881-b57a-49167444efc2?pbi_source=desktop",
+            "linkType": "report",
+            "inDevelopment": true
+          }
+        ]
       }
     ]
   },
