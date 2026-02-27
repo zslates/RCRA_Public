@@ -67,7 +67,14 @@
         "items": [
           {
             "name": "Adam Gobin",
-            "items": []
+            "items": [
+              {
+                "name": "HB Under 10k Account Count",
+                "url": "https://app.powerbi.com/groups/8d966faa-0abd-4694-b3b0-be795b35ef5e/reports/4b33d86c-9d84-494e-8b98-d840e380ddc7/2dbf8c6a570282583871?experience=power-bi",
+                "linkType": "report",
+                "inDevelopment": false
+              }
+            ]
           },
           {
             "name": "Ashley Owenby",
@@ -86,6 +93,17 @@
                 "name": "Teams Mapping Table",
                 "url": "https://wellstarhealthsystem.sharepoint.com/:x:/r/sites/RCRA/_layouts/15/Doc.aspx?sourcedoc=%7BA424F876-C7FB-4087-959D-A5FF3CF1D7AB%7D&file=Plan%20Mapping%20-%20Melissa%20Crozier.xlsx&action=default&mobileredirect=true",
                 "linkType": "excel",
+                "inDevelopment": false
+              }
+            ]
+          },
+          {
+            "name": "Kandis Irizarry",
+            "items": [
+              {
+                "name": "Venipuncture",
+                "url": "https://app.powerbi.com/groups/a8a026f4-b9f0-49d1-9cc8-b570a8404b43/reports/edbbead3-b938-43ff-bb39-662938b92aed?experience=power-bi&subfolderId=100371",
+                "linkType": "report",
                 "inDevelopment": false
               }
             ]
