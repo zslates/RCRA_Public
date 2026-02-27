@@ -157,10 +157,22 @@
     "category": "SBO",
     "items": [
       {
+        "name": "Inbound Calls (801)",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/e4553624-b989-4b2a-af0c-ce92bdb5e085/ReportSection?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false
+      },
+      {
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/933e1559-74a5-40ec-b0a6-20b2fe88662c/d0fb3900950b1401a088?experience=power-bi",
         "linkType": "report",
         "inDevelopment": false,
         "name": "Pending Medicaid"
+      },
+      {
+        "name": "My Chart CRM",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/46287de0-496d-45c3-aeae-4021b271b2eb/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "inDevelopment": false
       }
     ]
   },
