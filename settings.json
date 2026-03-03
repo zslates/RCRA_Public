@@ -16,5 +16,5 @@
       "text": "The menu lives on the left.<br><br> Click the <b>Star Icon</b> at the top to <b>Minimize/Maximize</b> the menu.<br><br> The <b>UP</b> arrow puts the sidebar into Mini Mode"
     }
   ],
-  "customCss": "trident-global-search-bar.tri-flex.tri-items-center.search-box.tri-overflow-item.centered-search-box.active-search-box {\n    display: none !important;\n}"
+  "customCss": "trident-global-search-bar.tri-flex.tri-items-center.search-box.tri-overflow-item.centered-search-box.active-search-box {\n    display: none !important;\n}\n\n.immersiveCopilotChatContainer {\n    display: none !important;\n}"
 }
