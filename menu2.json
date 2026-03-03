@@ -94,7 +94,8 @@
                 "name": "Teams Mapping Table",
                 "url": "https://wellstarhealthsystem.sharepoint.com/:x:/r/sites/RCRA/_layouts/15/Doc.aspx?sourcedoc=%7BA424F876-C7FB-4087-959D-A5FF3CF1D7AB%7D&file=Plan%20Mapping%20-%20Melissa%20Crozier.xlsx&action=default&mobileredirect=true",
                 "linkType": "excel",
-                "inDevelopment": false
+                "inDevelopment": false,
+                "openNewTab": true
               }
             ]
           },
