@@ -1,0 +1,20 @@
+{
+  "portalName": "RCRA BI Portal",
+  "defaultSide": "left",
+  "showLayoutBtns": true,
+  "welcomeTitle": "👋 Welcome!",
+  "welcomeDesc": "RCRA BI Portal Extension",
+  "customCss": "/* Enter valid CSS to modify the page... */",
+  "welcomeSteps": [
+    {
+      "icon": "⭐",
+      "title": "Bookmark this Page!",
+      "text": "Press <b>Ctrl + D</b> (or Cmd + D) to save this page so you can easily return to the portal later."
+    },
+    {
+      "icon": "⬅️",
+      "title": "Use the Sidebar",
+      "text": "The menu lives on the left.<br><br> Click the <b>Star Icon</b> at the top to <b>Minimize/Maximize</b> the menu.<br><br> The <b>UP</b> arrow puts the sidebar into Mini Mode"
+    }
+  ]
+}
