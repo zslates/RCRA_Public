@@ -105,7 +105,10 @@
           }
         ]
       }
-    ]
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "PB",
