@@ -10,7 +10,8 @@
     "items": [],
     "type": "workspace",
     "workspaceId": "personal",
-    "folderUrl": ""
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "Public Workspace",
@@ -132,7 +133,10 @@
           }
         ]
       }
-    ]
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "SBO",
@@ -159,7 +163,10 @@
         "items": [],
         "name": "Users"
       }
-    ]
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "items": [
@@ -196,7 +203,10 @@
         ]
       }
     ],
-    "category": "Claims Processing"
+    "category": "Claims Processing",
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "Leadership",
@@ -214,7 +224,10 @@
           }
         ]
       }
-    ]
+    ],
+    "type": "folder",
+    "folderUrl": "",
+    "color": "#ffffff"
   },
   {
     "category": "Admin",
