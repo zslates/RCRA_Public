@@ -95,6 +95,22 @@
             ]
           },
           {
+            "name": "Michele Asher",
+            "items": [
+              {
+                "name": "HBI Dashboard",
+                "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/7a8c3d6d-847d-4711-a54a-2fc1ce83d882/513f34b967e7a279633e?experience=power-bi",
+                "linkType": "report",
+                "type": "report",
+                "inDevelopment": false,
+                "openNewTab": false,
+                "pageCss": ""
+              }
+            ],
+            "type": "folder",
+            "folderUrl": ""
+          },
+          {
             "name": "Kandis Irizarry",
             "items": [
               {
