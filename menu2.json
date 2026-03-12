@@ -258,6 +258,14 @@
       }
     ],
     "type": "folder",
-    "folderUrl": ""
+    "folderUrl": "",
+    "inDevelopment": false,
+    "isHidden": false,
+    "color": "#aea0c0",
+    "overrideRoles": true,
+    "allowedRoles": [
+      "admin",
+      "super_admin"
+    ]
   }
 ]
