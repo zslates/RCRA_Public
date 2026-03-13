@@ -139,7 +139,14 @@
       },
       {
         "name": "Work Queue",
-        "items": []
+        "items": [
+          {
+            "name": "PB Work Queue Monitoring",
+            "url": "https://app.powerbi.com/groups/me/reports/7185ecf7-52dc-4cd3-95f2-be03e9a0c09b/f3ecc976484a7e6b2888?ctid=0598535e-625d-4d43-86bb-5240e2e61ee0&experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": false
+          }
+        ]
       },
       {
         "name": "Users",
