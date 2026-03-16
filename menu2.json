@@ -125,6 +125,15 @@
             ]
           }
         ]
+      },
+      {
+        "name": "UM Denials",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/c12136bb-00c6-446a-aa46-c788a940e119/a8ad9b0009e501b6d956?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
       }
     ],
     "type": "folder",
