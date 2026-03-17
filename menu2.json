@@ -285,9 +285,13 @@
         "openNewTab": true
       },
       {
-        "name": "New Link",
-        "url": "",
-        "linkType": "report"
+        "name": "Edge Store > RCRA BI Portal",
+        "url": "https://microsoftedge.microsoft.com/addons/detail/rcra-bi-portal/flnclkjpjccehcebcaphpngnojbcekec",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
       }
     ],
     "type": "folder",
