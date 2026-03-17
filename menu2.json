@@ -6,7 +6,7 @@
     "inDevelopment": false,
     "type": "report",
     "openNewTab": false,
-    "pageCss": ""
+    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n"
   },
   {
     "category": "My Workspace",
