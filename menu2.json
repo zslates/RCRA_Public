@@ -283,6 +283,11 @@
         "linkType": "report",
         "inDevelopment": false,
         "openNewTab": true
+      },
+      {
+        "name": "New Link",
+        "url": "",
+        "linkType": "report"
       }
     ],
     "type": "folder",
