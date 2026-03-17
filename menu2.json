@@ -135,9 +135,13 @@
     "category": "PB",
     "items": [
       {
-        "name": "New Link",
-        "url": "",
-        "linkType": "report"
+        "name": "POS Collections MTD",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/437abc32-4077-4b12-b212-d7e06e524c2f/9eaa06e994c4812696ab?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
       },
       {
         "name": "Monthly RVU",
