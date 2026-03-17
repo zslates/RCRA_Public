@@ -6,7 +6,7 @@
     "inDevelopment": false,
     "type": "report",
     "openNewTab": false,
-    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n.explorationHost {\n    margin-top: -65px;\n}\n.trident-information-protection-label-lazy-load.extended-artifact-info.ng-star-inserted {\n    display: none;\n}\nbutton.pbi-bcl-np-f.pbi-bcl-tp.pbi-bgc-tp.pbi-bgc-ts-f.pbi-bgc-ts-h.pbi-fcl-np.onMenuButtonBarExpanded {\n    display: none;\n}\n"
+    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n.explorationHost {\n    margin-top: -65px;\n\n"
   },
   {
     "category": "My Workspace",
