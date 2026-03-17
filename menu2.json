@@ -6,7 +6,7 @@
     "inDevelopment": false,
     "type": "report",
     "openNewTab": false,
-    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n.explorationHost {\n    margin-top: -65px;\n\n"
+    "pageCss": "section#exploration-container-app-bars {\n    display: none;\n}\n.explorationHost {\n    margin-top: -65px;\n\n}\ntrident-menu-button-bar {\n    display: none !important;\n}\ntrident-information-protection-label-lazy-load.ng-star-inserted {\n    display: none;\n}\n"
   },
   {
     "category": "My Workspace",
