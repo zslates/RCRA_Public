@@ -293,7 +293,16 @@
         "linkType": "report",
         "type": "report",
         "inDevelopment": false,
-        "openNewTab": false,
+        "openNewTab": true,
+        "pageCss": ""
+      },
+      {
+        "name": "Chrome Store > RCRA BI Portal",
+        "url": "https://chromewebstore.google.com/detail/rcra-bi-portal/abnicdnfmoblaolbeooeajkbcjpgimfg?authuser=0&hl=en",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": true,
         "pageCss": ""
       }
     ],
