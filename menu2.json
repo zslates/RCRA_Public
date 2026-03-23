@@ -138,6 +138,15 @@
     "category": "PB",
     "items": [
       {
+        "name": "Charge Posting Lag",
+        "url": "https://app.powerbi.com/groups/2f23dfde-70f3-43ef-9dc8-20f79535163c/reports/ac6e7f7f-e465-48c9-bcf2-c438aea8c558/e604278ecb316bc0857a?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
         "name": "POS Collections MTD",
         "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/437abc32-4077-4b12-b212-d7e06e524c2f/9eaa06e994c4812696ab?experience=power-bi",
         "linkType": "report",
