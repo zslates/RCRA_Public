@@ -284,7 +284,8 @@
     ],
     "type": "folder",
     "folderUrl": "",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "isHidden": true
   },
   {
     "category": "Admin",
