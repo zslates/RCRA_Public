@@ -142,7 +142,7 @@
         "url": "https://app.powerbi.com/groups/2f23dfde-70f3-43ef-9dc8-20f79535163c/reports/ac6e7f7f-e465-48c9-bcf2-c438aea8c558/e604278ecb316bc0857a?experience=power-bi",
         "linkType": "report",
         "type": "report",
-        "inDevelopment": false,
+        "inDevelopment": true,
         "openNewTab": false,
         "pageCss": ""
       },
