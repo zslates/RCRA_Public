@@ -36,13 +36,6 @@
             "linkType": "report"
           },
           {
-            "name": "Monthly ATB",
-            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a12c80c6-0aee-428c-a533-d8f1d0df9118/2dbf8c6a570282583871?experience=power-bi",
-            "linkType": "report",
-            "inDevelopment": true,
-            "openNewTab": true
-          },
-          {
             "name": "Finance ATB w/Net",
             "url": "https://app.powerbi.com/groups/me/reports/21396352-6f79-46fa-9d66-c8ededb5d4ff/353e5b971470f38f463f?experience=power-bi",
             "linkType": "report",
@@ -50,6 +43,13 @@
             "inDevelopment": false,
             "openNewTab": false,
             "pageCss": ""
+          },
+          {
+            "name": "Monthly ATB",
+            "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/a12c80c6-0aee-428c-a533-d8f1d0df9118/2dbf8c6a570282583871?experience=power-bi",
+            "linkType": "report",
+            "inDevelopment": true,
+            "openNewTab": true
           }
         ]
       },
