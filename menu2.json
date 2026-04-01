@@ -41,6 +41,15 @@
             "linkType": "report",
             "inDevelopment": true,
             "openNewTab": true
+          },
+          {
+            "name": "Finance ATB w/Net",
+            "url": "https://app.powerbi.com/groups/me/reports/21396352-6f79-46fa-9d66-c8ededb5d4ff/353e5b971470f38f463f?experience=power-bi",
+            "linkType": "report",
+            "type": "report",
+            "inDevelopment": false,
+            "openNewTab": false,
+            "pageCss": ""
           }
         ]
       },
