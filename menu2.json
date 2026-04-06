@@ -307,6 +307,15 @@
         "openNewTab": true
       },
       {
+        "name": "PowerBI Template 3/26",
+        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/c57bc8b2-5987-445f-95a6-acdd0a53cfef/d0fb3900950b1401a088?experience=power-bi",
+        "linkType": "report",
+        "type": "report",
+        "inDevelopment": false,
+        "openNewTab": false,
+        "pageCss": ""
+      },
+      {
         "name": "Edge Store > RCRA BI Portal",
         "url": "https://microsoftedge.microsoft.com/addons/detail/rcra-bi-portal/flnclkjpjccehcebcaphpngnojbcekec",
         "linkType": "report",
@@ -322,15 +331,6 @@
         "type": "report",
         "inDevelopment": false,
         "openNewTab": true,
-        "pageCss": ""
-      },
-      {
-        "name": "PowerBI Template 3/26",
-        "url": "https://app.powerbi.com/groups/34648886-da4b-4779-b0a7-e51f02961a87/reports/c57bc8b2-5987-445f-95a6-acdd0a53cfef/d0fb3900950b1401a088?experience=power-bi",
-        "linkType": "report",
-        "type": "report",
-        "inDevelopment": false,
-        "openNewTab": false,
         "pageCss": ""
       }
     ],
