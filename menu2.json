@@ -14,7 +14,8 @@
     "type": "workspace",
     "workspaceId": "personal",
     "folderUrl": "https://app.powerbi.com/groups/me/list?experience=power-bi",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "isHidden": true
   },
   {
     "category": "Public Workspace",
