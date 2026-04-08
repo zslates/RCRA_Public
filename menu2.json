@@ -51,12 +51,6 @@
             "linkType": "report",
             "inDevelopment": true,
             "openNewTab": true
-          },
-          {
-            "name": "sub test",
-            "type": "folder",
-            "folderUrl": "",
-            "items": []
           }
         ]
       },
