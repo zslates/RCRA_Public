@@ -42,7 +42,8 @@
             "type": "report",
             "inDevelopment": false,
             "openNewTab": false,
-            "pageCss": ""
+            "pageCss": "",
+            "allowBuild": true
           },
           {
             "name": "Monthly ATB",
