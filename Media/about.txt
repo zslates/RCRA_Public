@@ -1,0 +1,3 @@
+The files here are to control the POWERBI reports. 
+Instead of adding a static image to each template we instead point to a URL and if we want to change the header, footer, logo at any time we can just by
+replacing file. It's suggested to keep the orignal files or archive them so you can put them back if need be. 
